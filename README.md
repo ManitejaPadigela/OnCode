@@ -17,9 +17,9 @@ Django Webapp project
   **On Windows** \
   `c:\> .venv\bin\activate.ps1` \
   or 
-  `$ cd .venv`
-  `$ . Scripts/activate `
-  `$ pip freeze`
+  `$ cd .venv`\
+  `$ . Scripts/activate `\
+  `$ pip freeze`\
  **On Linux** \
   `$ source ./.venv/bin/activate`
 
