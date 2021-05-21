@@ -16,7 +16,7 @@ Django Webapp project
 3. Activate the python virtual environment \
   **On Windows** \
   `c:\> .venv\bin\activate.ps1` \
-  or 
+     or \
   `$ cd .venv`\
   `$ . Scripts/activate `\
   `$ pip freeze`\
