@@ -9,12 +9,18 @@ Django Webapp project
 
 2. Create Virtual environment \
   `$ python -m venv .venv`
+      or
+  `virtualenv -p python3 .venv`
   *NOTE: If you have already a virtual environment then don't create one skip to step 3*
 
 3. Activate the python virtual environment \
   **On Windows** \
   `c:\> .venv\bin\activate.ps1` \
-  **On Linux** \
+  or 
+  `$ cd .venv`
+  `$ . Scripts/activate `
+  `$ pip freeze`
+ **On Linux** \
   `$ source ./.venv/bin/activate`
 
 4. Install Requirements \
